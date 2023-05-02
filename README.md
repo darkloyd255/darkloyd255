@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @darkloyd255
-- 🌱 I’m currently learning nothing right now, ill figure it out
-- 💞️ I’m looking to collaborate on anything honestly
+- 🌱 I’m currently learning CSS, HTML, & JavaScript
+- 💞️ I’m looking to collaborate on my school bookmarklet hacks
