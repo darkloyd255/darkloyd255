@@ -12,7 +12,7 @@
 // Adding elements:
 elements.langton = {
     color: "#ffffff",
-    behavior: behaviors.POWDER,
+    behavior: behaviors.LIQUID,
     category: "special",
     viscosity: 1000000,
     state: "solid",
